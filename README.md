@@ -37,4 +37,4 @@ Figma for GUI design.
 
 
 ## 5. Showcase
-<p align="center"><img src="Images/H2price_GIF.gif" width="700" /></p>
+<p align="center"><img src="Images/H2price_GIF.gif" width: 100%  /></p>
